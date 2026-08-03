@@ -140,6 +140,6 @@ Customer-Churn-Analysis/
 ## 📬 Contact
 
 **Arpita Singh**
--arpitasinghchauhan2115@gmail.com
+- arpitasinghchauhan2115@gmail.com
 - LinkedIn: www.linkedin.com/in/arpita-singh0015
 - GitHub: github.com/arpita-singh-dot
