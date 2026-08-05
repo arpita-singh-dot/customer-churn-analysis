@@ -104,16 +104,18 @@ The Power BI dashboard enables users to:
 Customer-Churn-Analysis/
 │
 ├── data/
-│   └── telecom_churn.csv
+│   └── customer_churn_data_raw.xlsx
 │
 ├── notebooks/
-│   └── Customer_Churn_Analysis.ipynb
 │
-├── sql/
-│   └── churn_queries.sql
+│├── documentation/
+│   └──   └── Customer_Churn_Report_main.ipynb
+│
+├── database/
+│   └── customer_churn.db
 ├── images/
-│   ├── dashboard.png
-│   ├── churn_distribution.png
+│   ├── churn by_states.png
+│   ├── churn_rate_by_plan_type.png
 │   └── correlation_heatmap.png
 │
 ├── README.md
